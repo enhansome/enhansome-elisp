@@ -319,7 +319,7 @@ You can also browse the bug archive using =M-x debbugs-gnu= using the \[\[<https
 
   But some features can be hard to learn and some stuff can be improved with additional packages.
 
-  See also those talks \[\[<https://github.com/p3r7/awesome-elisp#john-wiegley-jwiegley][John> ⭐ 973 | 🐛 5 | 📅 2026-07-17 Wiegley]] gave about his setup for Elisp development:
+  See also those talks \[\[<https://github.com/p3r7/awesome-elisp#john-wiegley-jwiegley][John> ⭐ 975 | 🐛 5 | 📅 2026-07-17 Wiegley]] gave about his setup for Elisp development:
 
   * \[\[<https://www.youtube.com/watch?v=QFClYrhV1z4][Emacs> Lisp Development - @ Emacs Conference 2013]]
   * \[\[<https://sachachua.com/blog/2015/04/2015-04-08-emacs-lisp-development-tips-with-john-wiegley/][Emacs> Lisp Development Tips - Sacha Chua Emacs Chat 2015-04-08]]
@@ -2516,4 +2516,4 @@ Ribbon icons courtesy of \[\[<https://icons8.com][icons8>]].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
