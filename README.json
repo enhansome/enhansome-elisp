@@ -1,8 +1,9 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T05:56:27.884Z",
+    "last_updated": "2026-08-19T12:29:23.112Z",
     "original_repository": "emacs-tw/awesome-elisp",
+    "original_repository_id": 234189947,
     "original_repository_sha": "954998f76eda05153962d1b5e681c72a57c449fb",
     "enhanced_repository": "enhansome/enhansome-elisp",
     "enhanced_repository_description": null,
