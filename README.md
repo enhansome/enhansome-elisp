@@ -1,6 +1,6 @@
 # Awesome elisp with stars
 
-\#+HTML:<div align=center><a href="https://github.com/p3r7/awesome-elisp"><img alt="Emacs Logo" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg"></a>
+\#+HTML:<div align=center>[<img alt="Emacs Logo" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">](https://github.com/p3r7/awesome-elisp) ⭐ 975 | 🐛 5 | 📅 2026-07-17
 
 * Awesome Elisp
   \[\[<https://github.com/sindresorhus/awesome][https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>]]
