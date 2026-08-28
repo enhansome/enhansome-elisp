@@ -16,14 +16,15 @@
             "owner": "emacs-tw",
             "repo": "awesome-elisp",
             "stars": 975
-          }
+          },
+          "first_seen": "2026-08-28T17:37:10.860Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:38:46.231Z",
+    "last_updated": "2026-08-28T17:37:10.860Z",
     "original_repository_info": {
       "archived": false,
       "id": 234189947,
