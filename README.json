@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏵️ A curated list of Emacs Lisp development resources",
+            "homepage": null,
             "id": 234189947,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-07-17T17:59:46Z",
+            "open_issues": 5,
             "owner": "emacs-tw",
             "repo": "awesome-elisp",
-            "stars": 975
+            "stars": 975,
+            "topics": [
+              "awesome-list",
+              "emacs",
+              "emacs-lisp"
+            ]
           },
           "first_seen": "2026-08-28T17:37:10.860Z"
         }
@@ -24,15 +33,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:37:10.860Z",
+    "last_updated": "2026-08-29T04:33:57.596Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🏵️ A curated list of Emacs Lisp development resources",
+      "homepage": null,
       "id": 234189947,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-07-17T17:59:46Z",
+      "open_issues": 5,
       "owner": "emacs-tw",
       "repo": "awesome-elisp",
-      "stars": 975
+      "stars": 975,
+      "topics": [
+        "awesome-list",
+        "emacs",
+        "emacs-lisp"
+      ]
     },
     "original_repository_sha": "954998f76eda05153962d1b5e681c72a57c449fb",
     "enhanced_repository": "enhansome/enhansome-elisp",
