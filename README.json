@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "emacs-tw",
             "repo": "awesome-elisp",
-            "stars": 975,
+            "stars": 974,
             "topics": [
               "awesome-list",
               "emacs",
@@ -33,7 +33,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:57.596Z",
+    "last_updated": "2026-08-29T11:45:03.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏵️ A curated list of Emacs Lisp development resources",
@@ -45,7 +45,7 @@
       "open_issues": 5,
       "owner": "emacs-tw",
       "repo": "awesome-elisp",
-      "stars": 975,
+      "stars": 974,
       "topics": [
         "awesome-list",
         "emacs",
