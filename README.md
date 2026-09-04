@@ -737,7 +737,7 @@ Either one is of a great help to debug slow Elisp code, most noticeable during u
 
 \=elp.el= can target individual functions with =elp-instrument-function= or a whole package with =elp-instrument-package=.
 
-To profile individual forms Emacs also comes with the =benchmark= library. The /Emacs Package Developer’s Handbook/ has a \[\[<https://github.com/alphapapa/emacs-package-dev-handbook#profiling--optimization][whole> ⭐ 1,205 | 🐛 10 | 🌐 JavaScript | 📅 2024-04-22 section]] dedicated to this with thorough examples and helper macros.
+To profile individual forms Emacs also comes with the =benchmark= library. The /Emacs Package Developer’s Handbook/ has a \[\[<https://github.com/alphapapa/emacs-package-dev-handbook#profiling--optimization][whole> ⭐ 1,206 | 🐛 10 | 🌐 JavaScript | 📅 2024-04-22 section]] dedicated to this with thorough examples and helper macros.
 
 \*\*\* etrace
 
@@ -2516,4 +2516,4 @@ Ribbon icons courtesy of \[\[<https://icons8.com][icons8>]].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
