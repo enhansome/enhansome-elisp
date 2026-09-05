@@ -2332,7 +2332,7 @@ Contributed to Elisp development with:
 
 \*\* John Wiegley (@jwiegley)
 
-\[\[<http://newartisans.com/][blog>]], \[\[<https://github.com/jwiegley][github>]], \[\[<https://github.com/jwiegley/dot-emacs/blob/master/init.el][dot> ⭐ 792 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-21 emacs]]
+\[\[<http://newartisans.com/][blog>]], \[\[<https://github.com/jwiegley][github>]], \[\[<https://github.com/jwiegley/dot-emacs/blob/master/init.el][dot> ⭐ 792 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-09-04 emacs]]
 
 Known for:
 
@@ -2516,4 +2516,4 @@ Ribbon icons courtesy of \[\[<https://icons8.com][icons8>]].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
