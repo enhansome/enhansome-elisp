@@ -1,6 +1,6 @@
 # Awesome elisp with stars
 
-\#+HTML:<div align=center>[<img alt="Emacs Logo" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">](https://github.com/p3r7/awesome-elisp) ⭐ 969 | 🐛 5 | 📅 2026-07-17
+\#+HTML:<div align=center>[<img alt="Emacs Logo" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">](https://github.com/p3r7/awesome-elisp) ⭐ 970 | 🐛 5 | 📅 2026-07-17
 
 * Awesome Elisp
   \[\[<https://github.com/sindresorhus/awesome][https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>]]
@@ -319,7 +319,7 @@ You can also browse the bug archive using =M-x debbugs-gnu= using the \[\[<https
 
   But some features can be hard to learn and some stuff can be improved with additional packages.
 
-  See also those talks \[\[<https://github.com/p3r7/awesome-elisp#john-wiegley-jwiegley][John> ⭐ 969 | 🐛 5 | 📅 2026-07-17 Wiegley]] gave about his setup for Elisp development:
+  See also those talks \[\[<https://github.com/p3r7/awesome-elisp#john-wiegley-jwiegley][John> ⭐ 970 | 🐛 5 | 📅 2026-07-17 Wiegley]] gave about his setup for Elisp development:
 
   * \[\[<https://www.youtube.com/watch?v=QFClYrhV1z4][Emacs> Lisp Development - @ Emacs Conference 2013]]
   * \[\[<https://sachachua.com/blog/2015/04/2015-04-08-emacs-lisp-development-tips-with-john-wiegley/][Emacs> Lisp Development Tips - Sacha Chua Emacs Chat 2015-04-08]]
@@ -2332,7 +2332,7 @@ Contributed to Elisp development with:
 
 \*\* John Wiegley (@jwiegley)
 
-\[\[<http://newartisans.com/][blog>]], \[\[<https://github.com/jwiegley][github>]], \[\[<https://github.com/jwiegley/dot-emacs/blob/master/init.el][dot> ⭐ 794 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-09-17 emacs]]
+\[\[<http://newartisans.com/][blog>]], \[\[<https://github.com/jwiegley][github>]], \[\[<https://github.com/jwiegley/dot-emacs/blob/master/init.el][dot> ⭐ 795 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-09-19 emacs]]
 
 Known for:
 
@@ -2516,4 +2516,4 @@ Ribbon icons courtesy of \[\[<https://icons8.com][icons8>]].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
