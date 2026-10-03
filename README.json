@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Development Tools",
-          "description": null,
+          "description": "emacs-tw/awesome-elisp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:14:40.634Z",
+    "last_updated": "2026-10-03T04:44:14.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏵️ A curated list of Emacs Lisp development resources",
